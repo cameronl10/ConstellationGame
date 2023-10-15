@@ -1,0 +1,13 @@
+{"Quizzes": [
+    {
+        "name": "test1",
+        "Questions": ["Ursa Minor"]
+    },
+    {
+        "name": "test2",
+        "Questions": [
+            "Ursa Major",
+            "Ursa Minor"
+        ]
+    }
+]}
